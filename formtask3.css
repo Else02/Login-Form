@@ -1,0 +1,37 @@
+body{
+    background-color: #9999ff;
+}
+div {
+    background-color: #0000cc;
+    height: 510px;
+    width: 340px;
+    padding: 10px;
+    margin-left: 40%;
+    margin-top: 3%;
+}
+#log {
+    background-color: #00ff00;
+    color: azure;
+    text-align: center;
+    border: #00ff00;
+}
+#paragraph {
+    color: azure;
+    font-size: 38px;
+    text-align: center;
+    margin-top: 40px;
+}
+#horizontalligne {
+    background-color: #2eb82e;
+    height: 2px;
+    border-radius: 2px;
+}
+input {
+    background-color: #0000cc;
+    color: azure;
+    padding-left: 15px;
+    height: 30px;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
